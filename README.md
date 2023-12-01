@@ -5,5 +5,3 @@ https://github.com/Yogeshpvt/Hand-gesture-controlled-Drone/assets/87895840/f5436
 ### The drone view
 
 https://github.com/Yogeshpvt/Hand-gesture-controlled-Drone/assets/87895840/ac081956-66f2-4fec-bfac-bb2433ca23b1
-
-![tello_2](https://github.com/Yogeshpvt/Hand-gesture-controlled-Drone/assets/87895840/a3e44de5-85e0-485a-aa23-1438728b0ba9)
