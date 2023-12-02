@@ -6,8 +6,11 @@ https://github.com/Yogeshpvt/Hand-gesture-controlled-Drone/assets/87895840/f5436
 
 https://github.com/Yogeshpvt/Hand-gesture-controlled-Drone/assets/87895840/ac081956-66f2-4fec-bfac-bb2433ca23b1
 
-Reference: https://github.com/google/mediapipe
+| Repository                                    | GitHub Link                                   |
+| --------------------------------------------- | --------------------------------------------- |
+| Google Mediapipe                               | [https://github.com/google/mediapipe](https://github.com/google/mediapipe) |
+| Documentation for Google Mediapipe Developers | [https://developers.google.com/mediapipe](https://developers.google.com/mediapipe) |
 
 ![drone1](https://github.com/Yogeshpvt/Palm-Gesture-Controlled-Drone/assets/87895840/1e0eeb6b-3f7a-442b-9207-b993fa9d4587)
 
-![drone2](https://github.com/Yogeshpvt/Palm-Gesture-Controlled-Drone/assets/87895840/d0defab7-9f57-405f-ab8b-2f2087b2d8dd)
+![image](https://github.com/Yogeshpvt/Palm-Gesture-Controlled-Drone/assets/87895840/029fc546-f75e-438e-b6a9-bf3280a44113)
